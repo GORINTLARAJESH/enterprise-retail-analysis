@@ -1,4 +1,6 @@
+.vscode/
+.snapshots/
 __pycache__/
 *.pyc
-.env
-.ipynb_checkpoints/
+*.log
+*.pbix
