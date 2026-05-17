@@ -372,6 +372,7 @@ Unavailable Orders
 
 
 # Challenges Faced & Solved
+
 PostgreSQL CSV import errors
 Timestamp datatype mismatch issues
 Database connectivity debugging
@@ -381,6 +382,7 @@ KPI aggregation corrections
 
 
 # Key Learnings
+
 PostgreSQL database management
 SQL business analytics querying
 Power BI dashboard development
@@ -411,11 +413,11 @@ Business Intelligence Visualization
 Project Status
 ✅ Enterprise Retail Analytics Platform — Core Workflow Completed Successfully
 
-Current Project Status
+# Current Project Status
 
 ✅ PostgreSQL Integration Completed ✅ SQL KPI Analytics Completed ✅ Power BI Dashboard Development Completed ✅ KPI Cards Created ✅ Order Trend Analysis Completed ✅ Delivery Performance Analytics Completed ✅ Interactive Dashboard Filtering Completed ✅ Business Intelligence Workflow Completed ✅ GitHub Project Publishing Completed
 
-Final Project Outcome
+# Final Project Outcome
 
 Successfully developed an end-to-end Enterprise Retail Analytics Platform covering:
 
@@ -430,7 +432,7 @@ Interactive Dashboard Visualization
 Final Project Status
 ✅ Enterprise Retail Analytics Platform Successfully Completed
 
-This project demonstrates practical experience in:
+# This project demonstrates practical experience in:
 
 Python Data Engineering
 SQL Analytics
