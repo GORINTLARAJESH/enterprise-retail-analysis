@@ -399,18 +399,32 @@ SQL
 Power BI
 VS Code
 Git & GitHub
-Current Analytics Workflow
 
-Raw Data ↓ ETL Pipeline ↓ PostgreSQL Database ↓ SQL KPI Analytics ↓ Power BI Dashboard ↓ Business Insights
 
-Dashboard Features Built
+# Current Analytics Workflow
+
+Raw Data 
+   ↓ 
+ETL Pipeline 
+   ↓ 
+PostgreSQL Database 
+   ↓
+SQL KPI Analytics 
+   ↓
+Power BI Dashboard 
+   ↓
+Business Insights
+
+# Dashboard Features Built
+
 Executive KPI Cards
 Order Trend Analysis
 Delivery Performance Monitoring
 Order Status Analytics
 Interactive Filtering
 Business Intelligence Visualization
-Project Status
+
+# Project Status
 ✅ Enterprise Retail Analytics Platform — Core Workflow Completed Successfully
 
 # Current Project Status
